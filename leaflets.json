@@ -1,0 +1,1387 @@
+{
+    "AEZ": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/BGXxAc0TGtIA8D5Cxizif5lpsPg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/1048277/0.jpg?t=1769016861",
+            "shop_name": "AEZ",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:43"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/GBh8yV5VTqFHykxxPsojq689Jds=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/1030691/0.jpg?t=1768691439",
+            "shop_name": "AEZ",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:38:43"
+        }
+    ],
+    "Aldi": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/FV61iAgBxzl9od3iwy6DY3G23GM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/1041647/0.jpg?t=1768804325",
+            "shop_name": "Aldi",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:44"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Ab7qRwFWD3ePqzmOv4cozezcF54=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/1027724/0.jpg?t=1768129835",
+            "shop_name": "Aldi",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:44"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/BO8SRtNJ7mN_UbzNhUjNsMAP2jE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/889298/0.jpg?t=1768296033",
+            "shop_name": "Aldi",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:44"
+        }
+    ],
+    "Aldi Süd": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/sCBJX1v_tgLtQaDCKIAYeX4PJEA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/1027796/0.jpg?t=1768821731",
+            "shop_name": "Aldi Süd",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:44"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/LTFCfm3IbGpzePaKiXbVrihtzJE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/1040210/0.jpg?t=1768723759",
+            "shop_name": "Aldi Süd",
+            "valid_from": "02.02.2026",
+            "valid_to": "07.02.2026",
+            "parsed_time": "2026-01-22 19:38:44"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/MnBeSM7Re91WUW18xAQAwp88Ilo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/1032287/0.jpg?t=1768691436",
+            "shop_name": "Aldi Süd",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:44"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/dSS4kiCusFa3nos-ukjZJxpUopc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/878324/0.jpg?t=1768296099",
+            "shop_name": "Aldi Süd",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:44"
+        }
+    ],
+    "Alnatura": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rq4ambs7U4okYQ0OTOkl0ZOB03c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/34/998693/0.jpg?t=1767179419",
+            "shop_name": "Alnatura",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:46"
+        }
+    ],
+    "BioMarkt": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/CDKK5Dvx0zrvhNLk5-tbve7B4Sw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/217/1051493/0.jpg?t=1769075522",
+            "shop_name": "BioMarkt",
+            "valid_from": "28.01.2026",
+            "valid_to": "10.02.2026",
+            "parsed_time": "2026-01-22 19:38:46"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/oOPOu7v2XqdZP8gmg51Rp_kMc5I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/217/1020218/0.jpg?t=1768259456",
+            "shop_name": "BioMarkt",
+            "valid_from": "14.01.2026",
+            "valid_to": "27.01.2026",
+            "parsed_time": "2026-01-22 19:38:46"
+        }
+    ],
+    "Bofrost": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/ijZnFJ3ofu80yvVtdQ5cRf6oLPc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/84/719871/0.jpg?t=1757110222",
+            "shop_name": "Bofrost",
+            "valid_from": "07.09.2025",
+            "valid_to": "07.03.2026",
+            "parsed_time": "2026-01-22 19:38:47"
+        }
+    ],
+    "C&C": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/3hBPvWWBXk9YKpDHV_NDxh-h6HM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/190641/0.jpg?t=1769058499",
+            "shop_name": "C&C",
+            "valid_from": "07.02.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:47"
+        }
+    ],
+    "CAP Markt": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/1j1kAVBebr5zo14EutXkC15F4bE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/1032908/0.jpg?t=1768723926",
+            "shop_name": "CAP Markt",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:48"
+        }
+    ],
+    "CITTI Markt": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/sRNPMQa4yysXoToEnLqPqSsMYkc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/1048250/0.jpg?t=1768921831",
+            "shop_name": "CITTI Markt",
+            "valid_from": "21.01.2026",
+            "valid_to": "27.01.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/PPwkrHx2lRa_gssfgXNNShrxy8E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/1030697/0.jpg?t=1768379826",
+            "shop_name": "CITTI Markt",
+            "valid_from": "14.01.2026",
+            "valid_to": "27.01.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/GgfFKduEJA2mfAQoW-ftmPy91Zk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/1017653/0.jpg?t=1767766861",
+            "shop_name": "CITTI Markt",
+            "valid_from": "07.01.2026",
+            "valid_to": "03.02.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/O2r9A_GaalVZ4TN4RfhXXPJt0PM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/1006154/0.jpg?t=1767261957",
+            "shop_name": "CITTI Markt",
+            "valid_from": "02.01.2026",
+            "valid_to": "15.02.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/1lu7RfP5Sd7P2Afwr5hcLB3hvWA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/998633/0.jpg?t=1767107013",
+            "shop_name": "CITTI Markt",
+            "valid_from": "02.01.2026",
+            "valid_to": "27.01.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/mvkIcpkX-7HJSJ9cWeKihn0Yu18=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/996527/0.jpg?t=1766998733",
+            "shop_name": "CITTI Markt",
+            "valid_from": "01.01.2026",
+            "valid_to": "19.04.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/9oC4s-PuTo6xwvJO8zAWKEIrsFw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/814281/0.jpg?t=1760430617",
+            "shop_name": "CITTI Markt",
+            "valid_from": "15.10.2025",
+            "valid_to": "31.03.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/aD__1h8yhEe7srcUY6Q_IFYh5DM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/848262/0.jpg?t=1761719289",
+            "shop_name": "CITTI Markt",
+            "valid_from": "29.10.2025",
+            "valid_to": "03.02.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        }
+    ],
+    "Combi": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/TzXKXsyB8nfBTHCQl1HTBCj5J0g=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/190575/0.jpg?t=1766655231",
+            "shop_name": "Combi",
+            "valid_from": "31.01.2026",
+            "valid_to": "28.10.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        }
+    ],
+    "Diska": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/eYlxXnO2nV1wYmZsadQ6HEB-X2c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/199563/0.jpg?t=1769047658",
+            "shop_name": "Diska",
+            "valid_from": "31.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        }
+    ],
+    "Edeka": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/d0qx6vjaxuuYQgqKv56Pdet6Dfo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/1040201/0.jpg?t=1768726819",
+            "shop_name": "Edeka",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:49"
+        }
+    ],
+    "Edeka Struve": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/IVQH9LOMNf-QS8TzAsR-pQNa5S4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/484533/0.jpg?t=1763109530",
+            "shop_name": "Edeka Struve",
+            "valid_from": "31.03.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:50"
+        }
+    ],
+    "Edeka Zurheide": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/votBjjEzqv6AZ5FcqSm1zWlrhOI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/190719/0.jpg?t=1768729251",
+            "shop_name": "Edeka Zurheide",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:51"
+        }
+    ],
+    "Famila": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/K9tCR-nWqiyw0_nFVCA1abIRGR8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/1048193/0.jpg?t=1768889691",
+            "shop_name": "Famila",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:51"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/A_cNzoYALXeWPyZRUIS0e5fBoXA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/1040102/0.jpg?t=1768717356",
+            "shop_name": "Famila",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:51"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/KW5wsqJIPg7dSKhr7ULmjKMDtiM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/1032860/0.jpg?t=1768548335",
+            "shop_name": "Famila",
+            "valid_from": "19.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:51"
+        }
+    ],
+    "Famila Nordwest": [],
+    "Feneberg": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/aDm1eHvWnTMJcSFTlkDgxO7SMQ0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/190614/0.jpg?t=1768723647",
+            "shop_name": "Feneberg",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:51"
+        }
+    ],
+    "Getränke Quelle": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/6-yZzi3yfurbZEr4uXAyUMcfgc0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/190608/0.jpg?t=1768729251",
+            "shop_name": "Getränke Quelle",
+            "valid_from": "31.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:52"
+        }
+    ],
+    "Getränkeland": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/E79EAtJQSHsaklIGM_jblHKdJZE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/1040120/0.jpg?t=1768721375",
+            "shop_name": "Getränkeland",
+            "valid_from": "19.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:52"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/QvjAFjwuuesruCfyWCAe7fqZbBk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/1051490/0.jpg?t=1769068015",
+            "shop_name": "Getränkeland",
+            "valid_from": "28.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:52"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/CYEinlR4aOVZeEaZA-vHTMbRXV0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/1015361/0.jpg?t=1767521769",
+            "shop_name": "Getränkeland",
+            "valid_from": "02.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:52"
+        }
+    ],
+    "Globus": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/3AyLdz8o_lyS4QO-cHpWZQloEvU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/1051169/0.jpg?t=1769053909",
+            "shop_name": "Globus",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/cv_OAS9715_evblTIFIzg7sqm8U=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/1032299/0.jpg?t=1768691438",
+            "shop_name": "Globus",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/mryyScyvCWA4_dJl7Y30WIhdu-c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/1006157/0.jpg?t=1767262005",
+            "shop_name": "Globus",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        }
+    ],
+    "HERKULES": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Qsq59So6ZRj8Fnl3_VU_5b_ICv0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/1033010/0.jpg?t=1768634446",
+            "shop_name": "HERKULES",
+            "valid_from": "22.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/lNcyK4NulM34rKgQYbEioMB6_1w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/1033013/0.jpg?t=1768691439",
+            "shop_name": "HERKULES",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/lDmgDVGZ5naqA7JezQe56uFV8w4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/1033007/0.jpg?t=1768634430",
+            "shop_name": "HERKULES",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        }
+    ],
+    "HIT": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Qq1LQC4XpoP_UlAwICiGG7S2CPA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/1040144/0.jpg?t=1768727064",
+            "shop_name": "HIT",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/XIJp1SzAocVcbCe14njfKk9ruFA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/1006178/0.jpg?t=1767267396",
+            "shop_name": "HIT",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.03.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/9BwZwl7jDLN_aMhOibgBECM_zOw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/1040138/0.jpg?t=1768722350",
+            "shop_name": "HIT",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:53"
+        }
+    ],
+    "HOL’AB!": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/QR11XSh-4YLTg6ZPTG0iE8ODW60=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/1032881/0.jpg?t=1768691440",
+            "shop_name": "HOL’AB!",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:54"
+        }
+    ],
+    "Inkoop": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/eZs-4uUMBE2yOdSZodcRWBZjNxs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/1036706/0.jpg?t=1768724445",
+            "shop_name": "Inkoop",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:54"
+        }
+    ],
+    "Kaufland": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/HxaRo6Wfm03Tfp4kBua67KlgH54=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050224/0.jpg?t=1769067115",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/jDpZqyzrXxEh38HiqpZ74ucDabg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050707/0.jpg?t=1769067056",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Zwj_w2JBwS3tNpzQW8Ui0HUZDug=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050512/0.jpg?t=1769067080",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/2uMY5YhiS9NrRYh9vG6ARhADrwk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1051286/0.jpg?t=1769066983",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Vcc390B269ieKMj1xkS3R0ptH0c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1033499/0.jpg?t=1769067688",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/DbUOjCr0BskkfL5V1r4j92jxBGY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050800/0.jpg?t=1769067044",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/F8q1SwS_fIi0VrvVujXUiJ15sRk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1049951/0.jpg?t=1769067149",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/ayMzFieVXf26cBHmB6Rvdemmucs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1049816/0.jpg?t=1769067165",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/a4ndKicmeTubAxzTQpAXLrc_eXQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1040198/0.jpg?t=1768950641",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/CjU-IjY_OAkCybfcUKBOdtK6eXY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1049852/0.jpg?t=1769067160",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/4Rp0lT7csa7N0MFjXqBXwCwAqbw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1049396/0.jpg?t=1769067214",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/DEYgp1vjoOEvHe_EkpVVlZ--pWM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1051211/0.jpg?t=1769066992",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/RnJ5-T7NKu8OXlIDnqTzXl5tjjk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050770/0.jpg?t=1769067048",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/PjSDlqRjuzqchnR7BtBwZzA6bQA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1051244/0.jpg?t=1769066988",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/j7707c6wrgB1hrrsHYfjM7WGEJk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050710/0.jpg?t=1769067056",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/60DgDuJHA55sm8knW_7MFPbpypY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050785/0.jpg?t=1769067046",
+            "shop_name": "Kaufland",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        }
+    ],
+    "Klaas & Kock": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/dDfJlqKss7M6FfO86wsjouxczsU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/190461/0.jpg?t=1768729235",
+            "shop_name": "Klaas & Kock",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:55"
+        }
+    ],
+    "KODi": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/2qpOVDiTL8Btsle3Skf2EB2LnCE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/190449/0.jpg?t=1768206775",
+            "shop_name": "KODi",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:56"
+        }
+    ],
+    "KONSUM Leipzig": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/0NxMYeIPA2peT23_euwUEMJJCX0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/246/1041671/0.jpg?t=1768811888",
+            "shop_name": "KONSUM Leipzig",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:56"
+        }
+    ],
+    "Lidl": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/MYd4BOfW3UVjWGybYqMerLmDmao=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1033757/0.jpg?t=1768803465",
+            "shop_name": "Lidl",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/vF8WN0tQy2cdJ4HYqZqF0LG2YmE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1022666/0.jpg?t=1768092633",
+            "shop_name": "Lidl",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/pnsetS3Cw0ERcpGQljobH_2sdFk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1033805/0.jpg?t=1768692578",
+            "shop_name": "Lidl",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/tIG6WPqHk09NOjpIWdVFT2tQ0wo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1022525/0.jpg?t=1768691437",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/P8v032Y1SPa-EmXEy_HkbhVpiLo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1048508/0.jpg?t=1769043993",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Db7zGlwgnP3UUYs-imAXcj9YU4w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1032920/0.jpg?t=1768609404",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/YBVJp-ubUU3AMNw6EVISlKImtb4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1009184/0.jpg?t=1767483228",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/t6RRzSwh_P5RZp2PJTgcoELZVRw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1048538/0.jpg?t=1769041342",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/7awVV4AaUgpxg2XWdcmLaH4F8Ew=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1032947/0.jpg?t=1768605653",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/5RWmtUBZsIH1TK139rz1gHKeXpE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1022582/0.jpg?t=1768088989",
+            "shop_name": "Lidl",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/c5uz-ErLsnQNIJFbwd4dlKXSnMY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1033829/0.jpg?t=1768695607",
+            "shop_name": "Lidl",
+            "valid_from": "02.02.2026",
+            "valid_to": "07.02.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/z0yWKMzKOMoDEPGvZHaFAqhO3yM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/1001294/0.jpg?t=1767226846",
+            "shop_name": "Lidl",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/VElByqb15MCYvGeDVzdoIiXlA2M=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/994598/0.jpg?t=1766877587",
+            "shop_name": "Lidl",
+            "valid_from": "28.12.2025",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        }
+    ],
+    "Mäc Geiz": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Bt_0yXhOjuSLnMq6qyr4sbDRIsI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/85/190611/0.jpg?t=1767607624",
+            "shop_name": "Mäc Geiz",
+            "valid_from": "18.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        }
+    ],
+    "Markant": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/dqex_OMN4zsIPOYEa-5ySaJH1oA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/190455/0.jpg?t=1768727177",
+            "shop_name": "Markant",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        }
+    ],
+    "Marktkauf": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/r5ioaF9xrI7MFqIMNMMR0PjiHEo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/1040207/0.jpg?t=1768805418",
+            "shop_name": "Marktkauf",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:57"
+        }
+    ],
+    "Metro": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/T4UpP5GhP4DQCc3pSzT7tdw8RLc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1032893/0.jpg?t=1768691439",
+            "shop_name": "Metro",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/DflL6x7MydLCiYwrWU-TWropqLY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1041629/0.jpg?t=1768802244",
+            "shop_name": "Metro",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/1usorHkVDkx-nQk1LZZsiWTt_Ic=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1032899/0.jpg?t=1768552682",
+            "shop_name": "Metro",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/poTwAcCp4tcmDlfuGt2o-mHKqDM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1032896/0.jpg?t=1768552647",
+            "shop_name": "Metro",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/hrIBgUhq-L4m_3BTFqNfE_s4mBk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1032863/0.jpg?t=1768548563",
+            "shop_name": "Metro",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/5QOtcJgESmdIi5OwuKiWe7_maLY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1006187/0.jpg?t=1767263633",
+            "shop_name": "Metro",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Ix-xL3ZOMggdUN58SvxODV_-vhA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/1006184/0.jpg?t=1767263644",
+            "shop_name": "Metro",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/LsNtxwmkcMU8RXpz8cZuDY4FRWI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/996401/0.jpg?t=1766911576",
+            "shop_name": "Metro",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/qGbu2o5aZO4RELPs7cDOfnvle_Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/785355/0.jpg?t=1759301776",
+            "shop_name": "Metro",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Kc9N1vYVSl3wON_vVlLOYPz2UV4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/785271/0.jpg?t=1759295639",
+            "shop_name": "Metro",
+            "valid_from": "01.10.2025",
+            "valid_to": "09.06.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/c2RGC20uf3VHmrEp5Yuen-mgmCU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/785253/0.jpg?t=1759294817",
+            "shop_name": "Metro",
+            "valid_from": "01.10.2025",
+            "valid_to": "01.06.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/7ddvKU-_GG7rQ5mQeZr6WU7z4_A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/787539/0.jpg?t=1759379645",
+            "shop_name": "Metro",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/xVGxE9-Im8zYBKynKOIPWe265Oo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/992411/0.jpg?t=1766651414",
+            "shop_name": "Metro",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/hlqwMN3Ub4pZHfWcu81YzBZCO6M=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/441225/0.jpg?t=1750061460",
+            "shop_name": "Metro",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rHfPNCf7O0u__xxRDI90OTOWr10=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/889334/0.jpg?t=1762934088",
+            "shop_name": "Metro",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:38:58"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/AK72MEqsSxO_CZoGJV_sQ8WJ_9s=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/766821/0.jpg?t=1767940584",
+            "shop_name": "Metro",
+            "valid_from": "01.10.2025",
+            "valid_to": "18.02.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        }
+    ],
+    "Mix Markt": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/1kip4QXaD1wFiJz08I9YxH7-1pI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/1040177/0.jpg?t=1768722480",
+            "shop_name": "Mix Markt",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:38:58"
+        }
+    ],
+    "nah & gut": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/8xatbXBClK9VpSrbVDo_GQIFrlo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/1040219/0.jpg?t=1768723912",
+            "shop_name": "nah & gut",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:38:59"
+        }
+    ],
+    "Nahkauf": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/1K5N7kZruwfQwlIV3HILLY8fRmc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/1033355/0.jpg?t=1768724214",
+            "shop_name": "Nahkauf",
+            "valid_from": "18.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        }
+    ],
+    "Netto": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/nNkW9p1IGeRi7e6RdcWdLUJ5BR4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/1041632/0.jpg?t=1768802417",
+            "shop_name": "Netto",
+            "valid_from": "25.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/ko_iiTqObS9Mi4erbF2YoeyukKg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/1029398/0.jpg?t=1768691438",
+            "shop_name": "Netto",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/cSoo7AkqH2bHdJ6tdZFtql-q3EA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/814014/0.jpg?t=1760324905",
+            "shop_name": "Netto",
+            "valid_from": "20.10.2025",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        }
+    ],
+    "Netto Marken-Discount": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/FsQSGdGszAwwUpnxuWireALirT8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1048262/0.jpg?t=1768977957",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Qy-Fty11L4K82dbtZIw8IaSJegM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1032302/0.jpg?t=1768691438",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/kVKrLi80g-F5Qzx_PCgaoe9DP_g=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1048190/0.jpg?t=1768889451",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.kimbicdns.com/all/upload/d/c/c/dccc1ca9e4f24fcb9c583a7e7ed31ddadcd12cfe/letkim-first-page-de-netto-marken-discount_118_thumb_240x.jpg",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/WLTRvKiQh1b6BmjLv0tj02rpC0s=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1041641/0.jpg?t=1768803898",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/hTIiaL9gmvHHFbzMcXhYmZfg944=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1041644/0.jpg?t=1768806841",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.kimbicdns.com/all/upload/8/c/b/8cb08eb3ab08ac07687d0ad0bd264d0f8d0ebacd/letkim-first-page-de-netto-marken-discount_117_thumb_240x.jpg",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.kimbicdns.com/all/upload/5/7/a/57aacad559a9f463b14fd98b4e081bd3e52f1809/letkim-first-page-de-netto-marken-discount_115_thumb_240x.jpg",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/TcrM-G-TH8h0L06iCpr247YWkwI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/998717/0.jpg?t=1767181072",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/p5W9uHWafAWNk2YNMRIXg2AvyMc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/998714/0.jpg?t=1767181067",
+            "shop_name": "Netto Marken-Discount",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        }
+    ],
+    "Norma": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/WRCD3P3c-_rmvvA1YaWepFAyZPA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/1033043/0.jpg?t=1768632353",
+            "shop_name": "Norma",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/3e6ces_FERj-a9Q4jEAmowrW2nE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/1032857/0.jpg?t=1768547785",
+            "shop_name": "Norma",
+            "valid_from": "26.01.2026",
+            "valid_to": "01.02.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/QghspRyxjx23Zewpw5U8bFCeK24=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/1020368/0.jpg?t=1768691437",
+            "shop_name": "Norma",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.kimbicdns.com/all/upload/c/3/5/c3594fc09362b430e73210cb6a105c5c1715c62b/letkim-first-page-de-norma_078_thumb_240x.jpg",
+            "shop_name": "Norma",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.kimbicdns.com/all/upload/b/4/5/b451954cd61d260c8a0d6dc4a81f924b6f20d7b3/letkim-first-page-de-norma_077_thumb_240x.jpg",
+            "shop_name": "Norma",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/y60rb4aEzz-q-eJbHWd2v8scCHg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/1020173/0.jpg?t=1767940960",
+            "shop_name": "Norma",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/7N2RhJqVUqSf5TM4MehFv3Wyrwk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/1007891/0.jpg?t=1767357217",
+            "shop_name": "Norma",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rYhZXlNLmJvD3Beut1jl_tM2q5A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/998711/0.jpg?t=1767177663",
+            "shop_name": "Norma",
+            "valid_from": "01.01.2026",
+            "valid_to": "28.02.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rHpfpirVtJbd5X5KFPMkf1Ykuv8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/998708/0.jpg?t=1767177555",
+            "shop_name": "Norma",
+            "valid_from": "01.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:00"
+        }
+    ],
+    "NP Discount": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/RXj-CNN9FO2QulhIFsRJGD0A_lg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/1035575/0.jpg?t=1768723245",
+            "shop_name": "NP Discount",
+            "valid_from": "18.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        }
+    ],
+    "Penny": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/uGczvYetCU6SgrqTUWIVQ6o-F6s=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/1032836/0.jpg?t=1768691439",
+            "shop_name": "Penny",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        }
+    ],
+    "Rewe": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/F2QLt1LaiaHjA07D0YeMGSXXNP8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1034795/0.jpg?t=1768833894",
+            "shop_name": "Rewe",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/hGTus-ESJbHhmdgjEBdwUxt9OXg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1035605/0.jpg?t=1768833726",
+            "shop_name": "Rewe",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/tOkhpkn2Nr5ydsruSK-xFc8gO0E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039778/0.jpg?t=1768844458",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rwaWajEDn-VX5cxQ-y1RpUwolKs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039463/0.jpg?t=1768840922",
+            "shop_name": "Rewe",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/9PxM4Bp-sc2yljXz9zAPl-X9ROg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039709/0.jpg?t=1768844473",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/biWz8rVaR5I6mZS4XL-7PFg6PsM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039316/0.jpg?t=1768840953",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/uHZ630d6XLhumunlH9t815bnphg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1040081/0.jpg?t=1768725541",
+            "shop_name": "Rewe",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/lW9HesgpeAkTuqWJYccyn4VaExY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1033031/0.jpg?t=1768724621",
+            "shop_name": "Rewe",
+            "valid_from": "19.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/hOUQsy_egPUVyGgUK9iFkpGQEn0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039337/0.jpg?t=1768840948",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/cL-ZrZ5pu89T26ePL4DoX6cMvLo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039283/0.jpg?t=1768840961",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/tlvQsSI_KTKCnuhW8U60b4nvKU4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039571/0.jpg?t=1768844503",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/gKZVZIsebZy5Tjkl6a1qGW8Gk8o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039163/0.jpg?t=1768840987",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/x_f69Wxh57uBUxsFLdgsIQu6fJQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039733/0.jpg?t=1768844468",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/rM39Dxy3cHO8e_1GHI_sdhzYnAo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1037891/0.jpg?t=1768841251",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Ip-Lc4ALEod1I-6wOoCQBsFIY0A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039373/0.jpg?t=1768840941",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/TjMdeOWW9AQc9apLALC4NSL_wxQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039157/0.jpg?t=1768840988",
+            "shop_name": "Rewe",
+            "valid_from": "18.01.2026",
+            "valid_to": "25.01.2026",
+            "parsed_time": "2026-01-22 19:39:01"
+        }
+    ],
+    "Rewe ihr Kaufpark": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/zTrNsqHOql6fSKUqjFN-5MPVJaM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/190458/0.jpg?t=1768635456",
+            "shop_name": "Rewe ihr Kaufpark",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        }
+    ],
+    "Selgros": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/YCZATngbN220FgoU9tx1QD6zegE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032851/0.jpg?t=1768950640",
+            "shop_name": "Selgros",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/WSN7Rxi6FFYSiBix8fXeiZU0C9I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032854/0.jpg?t=1768819730",
+            "shop_name": "Selgros",
+            "valid_from": "22.01.2026",
+            "valid_to": "28.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/yEu7PKZ41JdcCWjmC2tp04946g4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032848/0.jpg?t=1768547131",
+            "shop_name": "Selgros",
+            "valid_from": "22.01.2026",
+            "valid_to": "04.02.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Z2mIf5NDz9Xy17hQpUMoczyMjO4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032845/0.jpg?t=1768547039",
+            "shop_name": "Selgros",
+            "valid_from": "22.01.2026",
+            "valid_to": "30.04.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/8VQiiejhKst2Zx1SL0QNbNqbwdU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1007819/0.jpg?t=1767346364",
+            "shop_name": "Selgros",
+            "valid_from": "22.01.2026",
+            "valid_to": "22.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/zs4A1vXEZxVxQfs1nLGzz7miIZM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1041695/0.jpg?t=1768821561",
+            "shop_name": "Selgros",
+            "valid_from": "20.01.2026",
+            "valid_to": "26.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/ZWFtshdx77rVqVq591xnTqGs9g8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032902/0.jpg?t=1768558547",
+            "shop_name": "Selgros",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/v_lVyjlRvCG14zyjHNcyAp90Lpg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1007825/0.jpg?t=1767346364",
+            "shop_name": "Selgros",
+            "valid_from": "",
+            "valid_to": "",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/4eYLM4OuPe6Ien86sXH8uhCwTI4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1007831/0.jpg?t=1767354965",
+            "shop_name": "Selgros",
+            "valid_from": "02.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/7rQuuZY8pkAntiQ10RQGan25RvI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/996560/0.jpg?t=1767263567",
+            "shop_name": "Selgros",
+            "valid_from": "02.01.2026",
+            "valid_to": "18.02.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/58huOs5fWFBQ9jAszrGCHqWCMmg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/878414/0.jpg?t=1762511388",
+            "shop_name": "Selgros",
+            "valid_from": "01.11.2025",
+            "valid_to": "18.02.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/xQNJYJn_TlbDdLe79TI2jsYBtNY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/926930/0.jpg?t=1763919884",
+            "shop_name": "Selgros",
+            "valid_from": "27.11.2025",
+            "valid_to": "15.04.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/-BWv3HdXm5tfDRgNEnpyaY3PwXY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/874856/0.jpg?t=1762171574",
+            "shop_name": "Selgros",
+            "valid_from": "02.10.2025",
+            "valid_to": "07.02.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        }
+    ],
+    "Simmel": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/IUjTeg6W7HW1u0xJ9VyKQo00zcs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/812415/0.jpg?t=1769072865",
+            "shop_name": "Simmel",
+            "valid_from": "31.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        }
+    ],
+    "Tegut": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/-5_9xF6OE9XhrI0D8HT0w-u-BKM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331299/0.jpg?t=1768727162",
+            "shop_name": "Tegut",
+            "valid_from": "25.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        }
+    ],
+    "V-Markt": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/WJSIheyt5Tyg9-g6b2pIg2YmPXU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/190590/0.jpg?t=1767684991",
+            "shop_name": "V-Markt",
+            "valid_from": "28.02.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:39:02"
+        }
+    ],
+    "Wasgau": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/woSSr_lgBL0DmQWSPTGIidYWN48=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/190599/0.jpg?t=1768729250",
+            "shop_name": "Wasgau",
+            "valid_from": "24.01.2026",
+            "valid_to": "14.10.2026",
+            "parsed_time": "2026-01-22 19:39:03"
+        }
+    ],
+    "WEZ": [
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/Z8FjuBGjE19iNoIh9-6qvxIw27Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/1048271/0.jpg?t=1768986739",
+            "shop_name": "WEZ",
+            "valid_from": "26.01.2026",
+            "valid_to": "31.01.2026",
+            "parsed_time": "2026-01-22 19:39:03"
+        },
+        {
+            "title": "Prospekt",
+            "thumbnail": "https://eu.leafletscdns.com/thumbor/NZS4Me7pmc7G70iyJULcXEHzYfc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/1030700/0.jpg?t=1768691438",
+            "shop_name": "WEZ",
+            "valid_from": "19.01.2026",
+            "valid_to": "24.01.2026",
+            "parsed_time": "2026-01-22 19:39:03"
+        }
+    ]
+}
